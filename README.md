@@ -22,7 +22,7 @@ A movie management backend built with Node.js, Express.js, and MongoDB. Supports
 
 ## 🔗 Setup & Run:
 - Clone the repo:
-- git clone https://github.com/Saeed-Youseef1/Movie-App-Backend---Node.js-MongoDB---Node.js-MongoDB.git
+- git clone [https://github.com/Saeed-Youseef1/Movie-App-Backend---Node.js-MongoDB---Node.js-MongoDB.git](https://github.com/Saeed-Youseef1/Movie-App-Backend---Node.js-MongoDB.git)
 - Install dependencies:
 - Create a .env file and add:
 - DATABASE_URL=your_mongodb_connection_string
